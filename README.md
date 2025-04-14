@@ -26,4 +26,5 @@ The "Simon Says" game is a web-based implementation of the classic memory game u
    :white_medium_small_square: and it will display your final level score.<br/>
    :white_medium_small_square: To restart the game again, press any key on keyboard.
     <br/>
-   Hope You Enjoyed The "GAME":slightly_smiling_face:
+    <br/>
+   Hope You Enjoyed The "GAME" :video_game:
