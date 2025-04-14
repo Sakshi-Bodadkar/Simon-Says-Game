@@ -3,7 +3,7 @@ The "Simon Says" game is a web-based implementation of the classic memory game u
 
 ![Image](https://github.com/user-attachments/assets/25687efb-17cb-4550-8a02-431932f2e1e3)
 
-#:video_game: Game Play Steps: Let's Play!
+:video_game: Game Play Steps: Let's Play!
 <hr>
 <br/>
 1. Start the Game:<br/>
