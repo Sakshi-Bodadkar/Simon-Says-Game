@@ -19,11 +19,11 @@ The "Simon Says" game is a web-based implementation of the classic memory game u
    <br/>
 4. Level Up:<br/>
    :white_medium_small_square: If you repeat the sequence correctly, you'll level up.<br/>
-   :hite_medium_small_square: the game will display a new sequence as you level up.
+   :white_medium_small_square: the game will display a new sequence as you level up.
    <br/>
 5. Game Over:<br/>
    :white_medium_small_square: If you make mistake by clicking incorrect box, the game will end.<br/>
    :white_medium_small_square: and it will display your final level score.<br/>
    :white_medium_small_square: To restart the game again, press any key on keyboard.
     <br/>
-   Hope You Enjoyed The "GAME" 	:smiley:
+   Hope You Enjoyed The "GAME":slightly_smiling_face:
